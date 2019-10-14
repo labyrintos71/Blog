@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Labyrintos71
+email: Labyrintos71@gmail.com
+description: 코틀린을 배우는 공부하는 블로그
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["labyrintos71", "kotlin", "코틀린", "안드로이드"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
