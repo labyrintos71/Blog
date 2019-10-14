@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Labyrintos71
+  name: 이수현
   avatar: leonids-logo.png
   job: "Android Developer"
-  bio: "안드로이드를 좋아하는 개발자"
-  email:
+  bio: 
+  email: "Labyrintos71@gmail.com"
   disqus-shortname:
   twitter: #username
   facebook: #username
