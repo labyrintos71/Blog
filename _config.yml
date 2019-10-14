@@ -5,7 +5,7 @@
 #
 title: Labyrintos71
 email: Labyrintos71@gmail.com
-description: 코틀린을 배우는 공부하는 블로그
+description: 코틀린을 공부하는 블로그
 url: # the base hostname & protocol for your site
 keywords: ["labyrintos71", "kotlin", "코틀린", "안드로이드"]
 
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Labyrintos71
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Android Developer"
+  bio: "안드로이드를 좋아하는 개발자"
   email:
   disqus-shortname:
   twitter: #username
